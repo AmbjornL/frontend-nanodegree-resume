@@ -1,3 +1,10 @@
 /*
 This is empty on purpose! Your code to build the resume will go here.
  */
+ 
+ /*$("#main").append("Ambjorn");
+ var firstName = "james";
+ var age = 32;
+ console.log(firstName);*/
+ var awesomeThoughts = "I am Ambjorn and I am AWESOME";
+ console.log(awesomeThoughts);
