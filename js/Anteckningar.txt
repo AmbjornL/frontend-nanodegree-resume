@@ -1,0 +1,3 @@
+Jag har backat videoföreläsningarna ett antal föreläsningar. Lyssna genom dem
+och bara fräscha upp minnet. Hoppa bara förbi quizzesarna. Det går. När jag 
+nått slutet kan jag göra klart min resumeBuilder.js.
