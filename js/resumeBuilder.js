@@ -34,7 +34,7 @@ var edu = {
 			"graduation_year":1988
 		}
 	]
-}
+};
 
 var projects = [
 	{
@@ -44,24 +44,20 @@ var projects = [
 	"images":["images/Ambjörn.jpg","images/Fry.jpg"]
 	}
 ]
-var bio = [ Fortsätt formattera det här. Kopiera från "Kod från quizzes.js" om jag vill.
-name, 
-role, 
-welcomeMessage, 
-biopic strings, 
-contacts object 
-	The contacts object should contain a mobile number, email address, github username, twitter handle and location. 
-skills array of skill strings. 
-The twitter property is optional.
-]
-
-var education = [
-array of schools. 
-	Each object in the schools array contains 
-	name, 
-	location, 
-	degree 
-	dates and 
-	url strings, 
-	amajors array of major strings. 
-]
+var bio = {
+	"name":"Ambjörn Lundgren",
+	"role":"Software Developer",
+	"contacts": {
+		"street":"Svartbäcksgatan 121", 
+		"mobile":"070-1234567",
+		"e-mail":"dummy@mail.address",
+		"github username":"I don't remember",
+		"location":{
+		"town":"Uppsala",
+		"country":"Sweden"
+		}
+		},
+	"welcomeMessage":"To whom it may concern",
+	"picture":"images/Ambjörn.jpg",
+	"skills":["C++", "UX"]
+};
